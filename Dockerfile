@@ -13,9 +13,6 @@ RUN npm install
 # Copia el resto de los archivos del proyecto
 COPY . .
 
-# Configura la variable de entorno necesaria para `vite`
-ENV NODE_OPTIONS=--openssl-legacy-provider
-
 # Construye el proyecto para producción
 RUN npm run build
 
