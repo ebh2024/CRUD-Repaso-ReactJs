@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\ITEC\\Programacion_III\\Practicar\\reactproject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A23B6923-C9A3-0A83-102E-399455D3D024}|reactproject1.esproj|c:\\users\\usuario\\desktop\\itec\\programacion_iii\\practicar\\reactproject1\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A23B6923-C9A3-0A83-102E-399455D3D024}|reactproject1.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A23B6923-C9A3-0A83-102E-399455D3D024}|reactproject1.esproj|c:\\users\\usuario\\desktop\\itec\\programacion_iii\\practicar\\reactproject1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A23B6923-C9A3-0A83-102E-399455D3D024}|reactproject1.esproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A23B6923-C9A3-0A83-102E-399455D3D024}|reactproject1.esproj|c:\\users\\usuario\\desktop\\itec\\programacion_iii\\practicar\\reactproject1\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A23B6923-C9A3-0A83-102E-399455D3D024}|reactproject1.esproj|solutionrelative:src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A23B6923-C9A3-0A83-102E-399455D3D024}|reactproject1.esproj|c:\\users\\usuario\\desktop\\itec\\programacion_iii\\practicar\\reactproject1\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A23B6923-C9A3-0A83-102E-399455D3D024}|reactproject1.esproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23B6923-C9A3-0A83-102E-399455D3D024}|reactproject1.esproj|c:\\users\\usuario\\desktop\\itec\\programacion_iii\\practicar\\reactproject1\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A23B6923-C9A3-0A83-102E-399455D3D024}|reactproject1.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,25 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.css",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ITEC\\Programacion_III\\Practicar\\reactproject1\\src\\App.css",
-              "RelativeDocumentMoniker": "src\\App.css",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ITEC\\Programacion_III\\Practicar\\reactproject1\\src\\App.css",
-              "RelativeToolTip": "src\\App.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-19T22:14:49.82Z",
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ITEC\\Programacion_III\\Practicar\\reactproject1\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ITEC\\Programacion_III\\Practicar\\reactproject1\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-19T23:16:13.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ITEC\\Programacion_III\\Practicar\\reactproject1\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ITEC\\Programacion_III\\Practicar\\reactproject1\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-19T23:09:38.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ITEC\\Programacion_III\\Practicar\\reactproject1\\src\\App.jsx",
               "RelativeDocumentMoniker": "src\\App.jsx",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\ITEC\\Programacion_III\\Practicar\\reactproject1\\src\\App.jsx",
               "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-03-19T01:15:28.759Z",
               "EditorCaption": ""
